@@ -6,6 +6,7 @@
 
 ### 步骤二: 初始化本地仓库
 ```mkdir [yourprojectdir]```  
+```cd [yourprojectdir]```
 ```git init```  
 ```git clone [your-forked-repo-url].git```  
 
